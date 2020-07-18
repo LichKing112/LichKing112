@@ -1,1 +1,1 @@
-<img src="profile.png" alt="Profile"/>
+<img src="profile.svg" alt="Profile"/>
