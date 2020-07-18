@@ -1,1 +1,2 @@
-<h2 style="text-align: center;">lichKing112</h2>
+<h1 align="center">lichKing112</h1><br>
+<a align="center">Discord</a>
