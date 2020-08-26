@@ -6,6 +6,4 @@ I'm a guy who is interested in codes, well sort off.
 
 * 🎮 i made stuff for `discord`, `minecraft`, and ` websites`.
 
-
-<hr>
 [![oof](https://github-readme-stats.vercel.app/api?username=lichking112)](https://github.com/anuraghazra/github-readme-stats)
