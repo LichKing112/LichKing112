@@ -1,7 +1,7 @@
 #### Hey there, the name's Lich.
-I'm a guy who is interested in codes, well sort off.
 
-* ⚙️ i use `.html`, `.css`, `.js`, `php`.
+
+* ⚙️ i use `.html`, `.css/sass`, `.js`, `php`.
 * 🌍 i also work in `graphics designing`
 
 * 🎮 i made stuff for `discord`, `minecraft`, and ` websites`.
