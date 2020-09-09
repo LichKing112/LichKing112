@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning web design
 
 ### Spotify Playing 🎧
-[![Spotify](https://lichking112.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-tau-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 ### Languages and Tools:
