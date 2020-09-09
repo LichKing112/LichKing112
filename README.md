@@ -1,7 +1,7 @@
 ### Hi there, I'm Yehezkiel - aka [lichKing112](#) 👋
 
-<img src="https://img.shields.io/badge/@yhezkieldio%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/lichKing112%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+<img src="https://img.shields.io/badge/@yhezkieldio%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/lichKing112%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+
 ## I'm a Front-end Developer.
 
 - 🔭 I’m currently working on [my own website](#)!
