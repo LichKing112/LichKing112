@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on [my own website](#)!
 - 🌱 I’m currently learning web design
 
-<!-- ### Spotify Playing 🎧
-// [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
+### Spotify Playing 🎧
+[<img src="https://novatorem.lichking112.vercel.app/api/spotify-playing" alt="LichKing112 Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DWX9VXBLRgDqu)
 
 
 ### Languages and Tools:
