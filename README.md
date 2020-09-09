@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning web design
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.lichking112.vercel.app/api/spotify-playing" alt="LichKing112 Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DWX9VXBLRgDqu)
+[![Spotify](https://lichking112.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 ### Languages and Tools:
