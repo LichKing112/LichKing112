@@ -5,10 +5,10 @@
 ## I'm a Front-End Developer!
 
 - 🔭 I’m currently working on [my own website](#)!
-- 🌱 I’m currently learning web design
+- 🌱 I’m currently learning web design.
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-tau-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-tau-dusky.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWX9VXBLRgDqu)
 
 
 ### Languages and Tools:
