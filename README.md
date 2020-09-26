@@ -4,7 +4,7 @@
 
 ## I'm a Front-End Developer!
 
-- 🔭 I’m currently working on [my own website](#)!
+- 🔭 I’m currently working on [my own website](https://github.com/LichKing112/lichking112.github.io)!
 - 🌱 I’m currently learning web design.
 
 ### Spotify Playing 🎧
