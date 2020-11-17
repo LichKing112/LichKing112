@@ -6,6 +6,11 @@ A front-end developer. <br>
  * [ElysiaNetwork's Website](https://github.com/ElysiaNetwork/Elysia-Website)
  * [ObamaBot's Website](https://github.com/FutureDeveloperZ/ObamaBot-Website)
  * [TrackRunny's Website](https://github.com/TrackRunny/TrackRunny-Website)
+ 
+ ### ✦ Working with:
+ * [HTML5](https://html.com)
+ * [CSS3](https://css-tricks.com) and [Sass](https://sass-lang.com)
+ * [JavaScript](https://www.javascript.com)
 
 
 ## GitHub Statistics
