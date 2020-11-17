@@ -9,8 +9,8 @@ A front-end developer. <br>
  
  ### ✦ Working with:
  * [HTML5](https://html.com)
- * [CSS3](https://css-tricks.com) and [Sass](https://sass-lang.com)
- * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="alt text" width="16" height="16"> [JavaScript](https://www.javascript.com)
+ * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="16" height="16"> [SS3](https://css-tricks.com) and <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="" width="16" height="16"> [Sas]ttps://sass-lang.com)S
+ * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="16" height="16"> [JavaScript](https://www.javascript.com)
 
 
 ## GitHub Statistics
