@@ -8,9 +8,8 @@ A front-end developer. <br>
  * [TrackRunny's Website](https://github.com/TrackRunny/TrackRunny-Website)
  
  ### ✦ Working with:
- * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="16" height="16">
- [HTML5](https://html.com)
- * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="16" height="16"> [SS3](https://css-tricks.com) and <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS" width="16" height="16"> [Sass]https://sass-lang.com)S
+ * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="16" height="16"> [HTML5](https://html.com)
+ * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="16" height="16"> [SS3](https://css-tricks.com) and <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS" width="16" height="16"> [Sass](https://sass-lang.com)
  * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="16" height="16"> [JavaScript](https://www.javascript.com)
 
 
