@@ -3,7 +3,6 @@ The name's [Liz.](https://www.instagram.com/yhezkiel.dio/) <br>
 A front-end developer. <br>
 
 ### ✦ Active projects: 
- * [ElysiaNetwork's Website](https://github.com/ElysiaNetwork/Elysia-Website)
  * [ObamaBot's Website](https://github.com/FutureDeveloperZ/ObamaBot-Website)
  * [TrackRunny's Website](https://github.com/TrackRunny/TrackRunny-Website)
  * [Mythcord's Dashboard](https://www.youtube.com/watch?v=OVPPOwMpSpQ) [PRIVATE]
