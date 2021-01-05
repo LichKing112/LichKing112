@@ -4,7 +4,7 @@ A front-end developer. <br>
 
 ### ✦ Active projects: 
  * [TrackRunny's Website](https://github.com/TrackRunny/TrackRunny-Website)
- * [Mythcord's Dashboard](https://www.youtube.com/watch?v=OVPPOwMpSpQ) [PRIVATE]
+ * [Mythcord's Dashboard](https://www.youtube.com/watch?v=OVPPOwMpSpQ)
  
  ### ✦ Working with:
  * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="16" height="16"> [HTML5](https://html.com)
