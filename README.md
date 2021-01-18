@@ -1,7 +1,8 @@
 ## Hello there! 👋
 The name's [Izumi.](https://www.instagram.com/yhezkiel.dio/) <br>
 A web developer. <br>
-I mostly handle front-end! Theres several occasion where i do both frond-end and back-end aswell. and yes, i do suck at back-end. 
+I mostly handle front-end! Theres several occasion where i do both frond-end and back-end aswell. <br>
+and yes, i do suck at back-end. 
 
 ### ✦ Active projects: 
  * [Mythcord's Dashboard](https://www.youtube.com/watch?v=OVPPOwMpSpQ)
