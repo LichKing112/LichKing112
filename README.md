@@ -1,3 +1,6 @@
+
+<img align="right" alt="profile" width="30%" src="https://avatars.githubusercontent.com/u/47420407?s=460&u=c7d150dba97a4eb85dd2a5f7a86238b50cc11207&v=4">
+
 ## Hello there! 👋
 The name's [Izumi.](https://www.instagram.com/yhezkiel.dio/) <br>
 A web developer. <br> <br>
