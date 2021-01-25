@@ -32,6 +32,8 @@ A web developer. <br> <br>
 
 <br>
 
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+
 <!-- /* ------ GITHUB STATISTICS ------ */ -->
 
 ## ❖ GitHub Statistics
