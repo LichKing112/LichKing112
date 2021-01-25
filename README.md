@@ -32,7 +32,7 @@ A web developer. <br> <br>
 
 <br>
 
-![Metrics](https://github.com/my-github-user/LichKing112/blob/master/github-metrics.svg)
+![Metrics](https://github.com/LichKing112/LichKing112/blob/master/github-metrics.svg)
 
 <!-- /* ------ GITHUB STATISTICS ------ */ -->
 
