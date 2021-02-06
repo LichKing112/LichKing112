@@ -7,6 +7,7 @@
 ## Hello there! 👋
 The name's [Izumi.](https://www.instagram.com/yhezkiel.dio/) <br>
 A web developer. <br> <br>
+Discord: **izu#4253**
 
 ![Metrics](https://github.com/LichKing112/LichKing112/blob/master/github-metrics.svg)
 
