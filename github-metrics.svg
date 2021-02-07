@@ -876,19 +876,19 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="409.1514545459293" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="409.16208898642475" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="409.1514545459293" y="0" width="42.78763541610047" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="409.16208898642475" y="0" width="42.7767914608466" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="451.93908996202975" y="0" width="2.8484728223111473" height="8" fill="#c6538c"/>
+          <rect mask="url(#languages-bar)" x="451.9388804472714" y="0" width="2.848546858256505" height="8" fill="#c6538c"/>
         
-          <rect mask="url(#languages-bar)" x="454.7875627843409" y="0" width="2.0983718855275995" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="454.7874273055279" y="0" width="2.0984264252602736" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="456.8859346698685" y="0" width="1.7096186998772618" height="8" fill="#4F5D95"/>
+          <rect mask="url(#languages-bar)" x="456.88585373078814" y="0" width="1.7096631353500722" height="8" fill="#4F5D95"/>
         
-          <rect mask="url(#languages-bar)" x="458.5955533697458" y="0" width="1.3752396432688754" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="458.59551686613827" y="0" width="1.3752753877444013" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="459.97079301301466" y="0" width="0.02920698698538559" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="459.9707922538826" y="0" width="0.029207746117393303" height="8" fill="#89e051"/>
         
       </svg>
       
@@ -972,7 +972,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated Sun, 07 Feb 2021 04:09:04 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sun, 07 Feb 2021 05:07:03 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
