@@ -4,9 +4,6 @@
 
 <!-- /* ------ INTRODUCTION ------ */ -->
 
-## Hello there! 👋
-The name's [Izumi.](https://www.instagram.com/yhezkiel.dio/) <br>
-A web developer. <br>
 Discord: **izu#4253** <br>
 
 ![Metrics](https://github.com/LichKing112/LichKing112/blob/master/github-metrics.svg)
