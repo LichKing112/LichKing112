@@ -4,7 +4,7 @@
 
 <!-- /* ------ INTRODUCTION ------ */ -->
 
-Discord: **izu#4253** <br>
+## Discord: **izu#4253** <br>
 
 ![Metrics](https://github.com/LichKing112/LichKing112/blob/master/github-metrics.svg)
 
