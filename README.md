@@ -20,9 +20,9 @@ __`Javascript supremacist and generally think php is inferrior`.__
 <br>
 
  `socials`
-- discord ~ izu#4253
-- instagram ~ @yhezkiel.dio
-- github ~ @LichKing112
+- discord ~ `izu#4253`
+- instagram ~ `@yhezkiel.dio`
+- genshin-impact ~ `800694922` (asia)
 
 <br>
 
