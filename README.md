@@ -19,6 +19,13 @@ __`Javascript supremacist and generally think php is inferrior`.__
 
 <br>
 
+ `socials`
+- discord ~ izu#4253
+- instagram ~ @yhezkiel.dio
+- github ~ @LichKing112
+
+<br>
+
 <details>
   <summary>❖ GitHub Trohies</summary>
   <br>
