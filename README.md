@@ -7,8 +7,8 @@ __`Javascript supremacist and generally think php is inferrior`.__
 <br>
 
 - Swing by my website **[lichking112.github.io](https://lichking112.github.io/)**
-- Currently working on [Lumine](https://github.com/LichKing112/Lumine). (open-source soon)
-- Learning React.js library and Pascal language.
+- Currently working on **[Lumine](https://github.com/LichKing112/Lumine)**. (open-source soon)
+- Learning **[React.js](https://reactjs.org/)** library and **[Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))** language.
 
 <br>
 
