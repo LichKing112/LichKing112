@@ -11,7 +11,6 @@ __`Javascript supremacist and generally think php is inferrior`.__
 - (─‿‿─) Learning **[React.js](https://reactjs.org/)** library and **[Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))** language.
 
 <br>
-<br>
 
  `facts`
 - (≖_≖ ) I'm more of a Manga reader than a anime watcher xd 
