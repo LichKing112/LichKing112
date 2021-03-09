@@ -14,5 +14,5 @@
 <!-- <img alt="LichKing112's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichking112&theme=gotham&layout=compact" /> -->
 
 # Heyyo! I'm Liz.
-## A Indonesian web developer/designer and a Discord bot developer.
+A Indonesian web developer/designer and a Discord bot developer.
 __`Javascript supremacist and generally think php is inferrior`.__
