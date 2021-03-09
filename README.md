@@ -1,7 +1,6 @@
 <!-- <img align="right" alt="LichKing112's Profile Image" width="30%" src="https://avatars.githubusercontent.com/u/47420407?s=460&u=e25894be1970844c90076ba193bc3ced198b26be&v=4"> -->
 
 # ` Heyo! I'm Liz. (ɔ◔‿◔)ɔ ♥ `
-#### A Indonesian web developer/designer and a Discord bot developer.
 __`Javascript supremacist and generally think php is inferrior`.__
 
 <br>
