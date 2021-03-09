@@ -13,6 +13,6 @@
 <!-- <img alt="LichKing112's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lichking112&theme=gotham&show_icons=true" /> -->
 <!-- <img alt="LichKing112's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichking112&theme=gotham&layout=compact" /> -->
 
-<h1 align="center">Heyyo! I'm Liz.</h1>
-<h3 align="center">A Indonesian web develope/designer and a Discord bot developer.</h3>
-`Javascript supremacist and generally think php is inferrior.`
+# Heyyo! I'm Liz.
+## A Indonesian web developer/designer and a Discord bot developer.
+__`Javascript supremacist and generally think php is inferrior`.__
