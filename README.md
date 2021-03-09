@@ -9,7 +9,7 @@ __`Javascript supremacist and generally think php is inferrior`.__
 
  `overview`
 - Swing by my website **[lichking112.github.io](https://lichking112.github.io/)**. （っ＾▿＾）
-- Currently working on **[Lumine](https://github.com/LichKing112/Lumine)**. __( open-source soon (>‿◠)✌ )__
+- Currently working on **[Lumine](https://github.com/LichKing112/Lumine)**. __( open-source soon )__ (>‿◠)✌
 - (─‿‿─) Learning **[React.js](https://reactjs.org/)** library and **[Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))** language.
 
 <br>
@@ -17,7 +17,7 @@ __`Javascript supremacist and generally think php is inferrior`.__
 
  `facts`
 - (≖_≖ ) I'm more of a Manga reader than a anime watcher xd 
-- I like country & alternative music. ( weird combo ikr? ( ▀̿ ̿ ͜ʖ ▀̿ ̿  ) )
+- I like country & alternative music. ( weird combo ikr? ) ( ▀̿ ̿ ͜ʖ ▀̿ ̿  )
 
 <br>
 
