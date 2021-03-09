@@ -13,9 +13,9 @@ __`Javascript supremacist and generally think php is inferrior`.__
 <br>
 
  `facts`
-- (≖_≖ ) I'm more of a Manga reader than a anime watcher xd 
+- (≖_≖ ) I'm more of a manga reader than a anime watcher xd 
 - I like country & alternative music. __( weird combo ikr? )__ ( ▀̿ ̿ ͜ʖ ▀̿ ̿  )
-- I'm actually working on my own isekai novel uwu __( ngl i like worldbuilding )__ ☜(ˆ▿ˆc)
+- I'm actually working on my own isekai novel uwu __( ngl worldbuilding is fun )__ ☜(ˆ▿ˆc)
 
 <br>
 
