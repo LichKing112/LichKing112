@@ -6,9 +6,17 @@ __`Javascript supremacist and generally think php is inferrior`.__
 
 <br>
 
-- Swing by my website **[lichking112.github.io](https://lichking112.github.io/)** （っ＾▿＾）
-- Currently working on **[Lumine](https://github.com/LichKing112/Lumine)**. __(open-source soon (>‿◠)✌)__
+## `overview`
+- Swing by my website **[lichking112.github.io](https://lichking112.github.io/)**. （っ＾▿＾）
+- Currently working on **[Lumine](https://github.com/LichKing112/Lumine)**. __( open-source soon (>‿◠)✌ )__
 - (─‿‿─) Learning **[React.js](https://reactjs.org/)** library and **[Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))** language.
+
+<br>
+
+## `facts`
+- I can do Node.js applications & full-stack nosql web applications. ( express & mongodb obviously ٩(˘◡˘)۶ )
+- I'm more of a Manga reader than a anime watcher xd
+- I like country & alternative music. ( weird combo ikr?
 
 <br>
 
