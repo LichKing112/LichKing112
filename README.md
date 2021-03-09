@@ -17,7 +17,7 @@ __`Javascript supremacist and generally think php is inferrior`.__
 
  `facts`
 - (≖_≖ ) I'm more of a Manga reader than a anime watcher xd 
-- I like country & alternative music. ( weird combo ikr? ) ( ▀̿ ̿ ͜ʖ ▀̿ ̿  )
+- I like country & alternative music. __( weird combo ikr? )__ ( ▀̿ ̿ ͜ʖ ▀̿ ̿  )
 
 <br>
 
