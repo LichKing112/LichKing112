@@ -10,12 +10,12 @@ __`Javascript supremacist and generally think php is inferrior`.__
 
 <details>
   <summary>❖ GitHub Trohies</summary>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <img alt="LichKing112's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" />
 </details>
 
 <details>
   <summary>❖ GitHub Metrics</summary>
-  ![Metrics](https://github.com/LichKing112/LichKing112/blob/master/github-metrics.svg)
+  <img alt="LichKing112's Github Metrics" src="https://github.com/LichKing112/LichKing112/blob/master/github-metrics.svg" />
 </details>
 
 <details>
