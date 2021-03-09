@@ -15,4 +15,4 @@
 
 <h1 align="center">Heyyo! I'm Liz.</h1>
 <h3 align="center">A Indonesian web develope/designer and a Discord bot developer.</h3>
-<h2 align="center">`Javascript supremacist and generally think php is inferrior.`</h2>
+`Javascript supremacist and generally think php is inferrior.`
