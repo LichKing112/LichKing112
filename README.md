@@ -22,7 +22,7 @@ __`Javascript supremacist and generally think php is inferrior`.__
  `socials`
 - discord ~ `izu#4253`
 - instagram ~ `@yhezkiel.dio`
-- genshin-impact ~ `800694922` (asia)
+- genshin-impact ~ `800694922` __(asia)__
 
 <br>
 
