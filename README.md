@@ -41,6 +41,7 @@ __`Javascript supremacist and generally think php is inferrior`.__
 <details>
   <summary>❖ GitHub Statistics</summary>
   <br>
+ ![](https://komarev.com/ghpvc/?username=LichKing112&color=blueviolet)
   <img alt="LichKing112's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lichking112&theme=gotham&show_icons=true" />
   <img alt="LichKing112's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichking112&theme=gotham&layout=compact" />
 </details>
