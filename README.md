@@ -29,7 +29,7 @@ __`Javascript supremacist and generally think php is inferrior`.__
 <details>
   <summary>❖ GitHub Trohies</summary>
   <br>
-  <img alt="LichKing112's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" />
+  <img alt="LichKing112's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=LichKing112&theme=onedark" />
 </details>
 
 <details>
