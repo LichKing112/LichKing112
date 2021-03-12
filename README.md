@@ -8,13 +8,13 @@ __`Javascript supremacist and generally think php is inferrior`.__
  `overview`
 - Swing by my website **[lichking112.github.io](https://lichking112.github.io/)**. （っ＾▿＾）
 - Currently working on **[Lumine](https://github.com/LichKing112/Lumine)**. __( open-source soon )__ (>‿◠)✌
-- (─‿‿─) Learning **[React.js](https://reactjs.org/)** library and **[Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))** language.
+- (─‿‿─) Learning **[Tailwind CSS](https://tailwindcss.com)** and **[Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))** language.
 
 <br>
 
  `facts`
 - (≖_≖ ) I'm more of a manga reader than a anime watcher xd 
-- I like country & alternative music. __( weird combo ikr? )__ ( ▀̿ ̿ ͜ʖ ▀̿ ̿  )
+- I like country & alternative music. ( ▀̿ ̿ ͜ʖ ▀̿ ̿  )
 - I'm actually working on my own isekai novel uwu ☜(ˆ▿ˆc)
 
 <br>
