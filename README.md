@@ -8,7 +8,6 @@ __`Javascript supremacist and generally think php is inferrior`.__
  `overview`
 - Swing by my website **[lichking112.github.io](https://lichking112.github.io/)**. （っ＾▿＾）
 - Currently working on **[Lumine](https://github.com/LichKing112/Lumine)**. __( open-source soon )__ (>‿◠)✌
-- (─‿‿─) Learning **[BulmaCSS](bulma.io/documentation/)** and **[Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))** language.
 
 <br>
 
