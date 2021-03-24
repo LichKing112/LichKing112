@@ -5,7 +5,7 @@
 
 ## `Overview`
 
-I'm from Indonesia, and currently attending a Vocational high school majoring in software enginnering with a keen interest in web development.
+- I'm from Indonesia, and currently attending a Vocational high school majoring in software enginnering with a keen interest in web development.
 
 <br>
 
