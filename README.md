@@ -1,7 +1,10 @@
 
-# ` Heyo! I'm Liz. (ɔ◔‿◔)ɔ ♥ `
+# `Hi-ya! I'm Liz. (^_^)/ `
+### `web-frontend developer and designer`
 
-<br>
+## `Overview`
+
+I'm from Indonesia, and currently attending a Vocational high school majoring in software enginnering with a keen interest in web development.
 
 <details>
   <summary>❖ GitHub Trohies</summary>
