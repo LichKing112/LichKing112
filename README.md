@@ -1,10 +1,8 @@
 
 # ` Heyo! I'm Liz. (ɔ◔‿◔)ɔ ♥ `
 
- `socials`
-- discord ~ `lizz#4253`
-- instagram ~ `@yhezkiel.dio`
-- genshin-impact ~ `800694922`
+<iframe id="botiframe" onload="setCampaignIframe('');" src="https://yehezkieldio.xyz/">
+</iframe>
 
 <br>
 
