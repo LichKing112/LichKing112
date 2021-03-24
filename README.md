@@ -1,6 +1,6 @@
 
 # `Hi-ya! I'm Liz. (^_^)/ `
-### `web-frontend developer and designer`
+`web-frontend developer and designer`
 
 ## `Overview`
 
