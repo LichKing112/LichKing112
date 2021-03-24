@@ -2,7 +2,7 @@
 # `Hi-ya! I'm Liz. (^_^)/ `
 
 - I'm from Indonesia, and currently attending a Vocational high school majoring in software enginnering with a keen interest in web development.
-- **[website](https://lichking112.github.io) | [discord-lizz#4253](https://discord.io/giid) | [instagram-yhezkiel.dio](https://www.instagram.com/yhezkiel.dio/)**
+- **my [website](https://lichking112.github.io) | my discord [lizz#4253](https://discord.io/giid) | my instagram [yhezkiel.dio](https://www.instagram.com/yhezkiel.dio/)**
 
 <br>
 
