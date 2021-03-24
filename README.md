@@ -1,27 +1,10 @@
-<!-- <img align="right" alt="LichKing112's Profile Image" width="30%" src="https://avatars.githubusercontent.com/u/47420407?s=460&u=e25894be1970844c90076ba193bc3ced198b26be&v=4"> -->
 
 # ` Heyo! I'm Liz. (ɔ◔‿◔)ɔ ♥ `
-__`Javascript supremacist and generally think php is inferrior`.__
-
-<br>
-
- `overview`
-- Swing by my website **[lichking112.github.io](https://lichking112.github.io/)**. （っ＾▿＾）
-- Currently working on **[Lumine](https://github.com/LichKing112/Lumine)**. __( open-source soon )__ (>‿◠)✌
-
-<br>
-
- `facts`
-- (≖_≖ ) I'm more of a manga reader than a anime watcher xd 
-- I like country & alternative music. ( ▀̿ ̿ ͜ʖ ▀̿ ̿  )
-- I'm actually working on my own isekai novel uwu ☜(ˆ▿ˆc)
-
-<br>
 
  `socials`
 - discord ~ `lizz#4253`
 - instagram ~ `@yhezkiel.dio`
-- genshin-impact ~ `800694922` __(asia)__
+- genshin-impact ~ `800694922`
 
 <br>
 
