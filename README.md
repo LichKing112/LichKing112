@@ -7,6 +7,9 @@
 - **[website](https://lichking112.github.io) | [discord-lizz#4253](https://discord.io/giid) | [instagram-yhezkiel.dio](https://www.instagram.com/yhezkiel.dio/)**
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <details>
