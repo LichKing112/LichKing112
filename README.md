@@ -6,7 +6,8 @@
 - I'm from Indonesia, and currently attending a Vocational high school majoring in software enginnering with a keen interest in web development.
 - **[website](https://lichking112.github.io) | [discord-lizz#4253](https://discord.io/giid) | [instagram-yhezkiel.dio](https://www.instagram.com/yhezkiel.dio/)**
 
-<hr>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details>
   <summary>GitHub Trohies</summary>
