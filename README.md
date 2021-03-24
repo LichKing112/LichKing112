@@ -1,8 +1,7 @@
 
 # ` Heyo! I'm Liz. (ɔ◔‿◔)ɔ ♥ `
 
-<iframe id="botiframe" onload="setCampaignIframe('');" src="https://yehezkieldio.xyz/">
-</iframe>
+<iframe id="botiframe" onload="setCampaignIframe('');" src="https://yehezkieldio.xyz/"></iframe>
 
 <br>
 
