@@ -1,13 +1,12 @@
 
 # `Hi-ya! I'm Liz. (^_^)/ `
 
-<br>
-
-## `Overview`
+## `overview`
 
 - I'm from Indonesia, and currently attending a Vocational high school majoring in software enginnering with a keen interest in web development.
+- **[website](lichking112.github.io/) | [discord-lizz#4253](https://discord.io/giid) | [instagram-@yhezkiel.dio](https://www.instagram.com/yhezkiel.dio/)**
 
-<br>
+## `github`
 
 <details>
   <summary>GitHub Trohies</summary>
