@@ -1,8 +1,6 @@
 
 # `Hi-ya! I'm Liz. (^_^)/ `
 
-- **my [website](https://lichking112.github.io) | my discord [lizz#4253](https://discord.io/giid) | my instagram [yhezkiel.dio](https://www.instagram.com/yhezkiel.dio/)**
-
 <br>
 
 <!--START_SECTION:waka-->
