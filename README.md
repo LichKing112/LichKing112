@@ -46,25 +46,4 @@ JavaScript               35 mins             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<br>
-
-  <p align="center">
-    <img alt="LichKing112's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=LichKing112&theme=onedark" />
-  </p>
-  
- <br>
- <p align="center">
-    <img alt="LichKing112's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lichking112&theme=gotham&show_icons=true" />
-    <img alt="LichKing112's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichking112&theme=gotham&layout=compact" />
-  </p>
-
-
-<details>
-  <summary>Metrics</summary>
-  <br>
-  <p align="center">
-    <img alt="LichKing112's Github Metrics" src="https://github.com/LichKing112/LichKing112/blob/master/github-metrics.svg" />
-  </p>
-</details>
-
 
